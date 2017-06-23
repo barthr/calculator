@@ -2,7 +2,7 @@
 #define IDENTIFIER '1'
 #define ASSIGNMENT '2'
 #define VARIABLE '3'
-#define ALPHABET_SIZE 26 - 1 // -1 excluding the r for the most recent value
+#define ALPHABET_SIZE 26
 
 void push(double);
 
